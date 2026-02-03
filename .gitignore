@@ -1,0 +1,19 @@
+# Build folders
+build/
+cmake-build-debug/
+cmake-build-release/
+.vscode/
+saved_images/
+annotated_tiles/ 
+
+# Binaries
+main
+*.out
+*.o
+*.so
+*.a
+*.exe
+*.main
+
+# Logs
+*.log
